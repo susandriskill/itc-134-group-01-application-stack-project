@@ -18,16 +18,16 @@ This is more of a cheat sheet. For a better guide, please go to the [GitHub Mark
  - Top of the list
  - Second item
  - Last item
-  * I can change it up with an indent
-  * And just keep adding more content
+    * I can change it up with an indent
+    * And just keep adding more content
 
 Ordered lists are also easy.
   1. Tab, Number, Period.
   2. It's that easy.
   3. What if you want to add a sub list?
-    1. Tab and start numbering again.
-      - You can combine list types
-      - And keep outlining as you like.
+      1. Tab and start numbering again.
+          - You can combine list types
+          - And keep outlining as you like.
       
 ## Section 3: Fun Stuff
 

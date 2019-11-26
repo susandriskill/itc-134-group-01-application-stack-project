@@ -32,10 +32,10 @@
   }
 
   img {
-        height: 40%;
-        width: 40%;
+        height: 48%;
+        width: 48%;
         float: left;
-        margin-right: 2em;
+        margin: 2em;
     }
   
   aside {
@@ -54,6 +54,7 @@
   
   h2,
   h3 {
+      display: block;
       font-weight: bold;
       margin-left: .25em;
       margin-top: .5em;
@@ -68,3 +69,9 @@
   ul {
       margin: 1.5em;
   }
+
+  li {
+   font-size: .9em;
+        margin-left: 1em;
+        margin-bottom: .5em;
+} 

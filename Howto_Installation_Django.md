@@ -45,7 +45,7 @@ $ sudo python3 -m django --version
 
 ## Install MariaDB
 **The first shell command (apt-get install) installs mariadb and necessary modules.**
-** The second command helps check database security by helping create a root password (make sure to save this) and checking security items**
+**The second command helps check database security by helping create a root password (make sure to save this) and checking security items**
 ```Shell Session
 $ sudo apt-get install mariadb-server libmariadbclient-dev libssl-dev
 $ sudo mysql_secure_installation

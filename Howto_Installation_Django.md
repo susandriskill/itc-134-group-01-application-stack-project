@@ -37,13 +37,13 @@ $ sudo apt install python3-pip
 $ sudo pip3 version
 ```
 
-##Install Django
+## Install Django
 ```Shell Session
 $ sudo pip3 install django --upgrade
 $ sudo python3 -m django --version
 ```
 
-##Install MariaDB
+## Install MariaDB
 **The first shell command (apt-get install) installs mariadb and necessary modules.**
 ** The second command helps check database security by helping create a root password (make sure to save this) and checking security items**
 ```Shell Session

@@ -21,7 +21,7 @@ $ sudo apt-get install libapache2-mod-wsgi-py3
 ```Shell Session
 $ sudo service apache2 start
 ```
-###Check Server External IP to see if Apache is Running
+ ### Check Server External IP to see if Apache is Running
 ```Shell Session
 $ sudo service apache2 stop
 ```

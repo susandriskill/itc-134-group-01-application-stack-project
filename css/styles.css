@@ -13,39 +13,32 @@
       height: 100px;
       background: rgba(31, 159, 218, 0.966);
   }
-  
-  header {
-      text-align: center;
-      margin: auto;
-      line-height: 2.5em;
-  }
+
+  header h1 {
+        text-align: center;
+        margin: auto;
+        line-height: 2.5em;
+    }
   
   .wrapper {
-      width: 80%;
+      width: 940px;
       margin: 0 auto;
   }
   
   main {
       height: auto;
-      width: 60%;
+      width: 580px;
       float: left;
-  }
-  
-  main ul {
-      margin-left: 1em;
-  }
-  
-  main p {
-      font-weight: 700;
   }
   
   aside {
       background: lightsteelblue;
       height: auto;
-      width: 35%;
+      width: 355px;
       /* padding-left: 1em;  */
       float: right;
   }
+
   
   p {
       margin: 1em;

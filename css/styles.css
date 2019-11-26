@@ -32,10 +32,10 @@
   }
 
   img {
-        height: 48%;
-        width: 48%;
-        float: left;
-        margin: 2em;
+        height: 42%;
+        width: 42%;
+        display: inline-block;
+        margin: 1em;
     }
   
   aside {
